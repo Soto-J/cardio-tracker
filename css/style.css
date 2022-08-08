@@ -67,7 +67,6 @@ h1 {
   flex-direction: column;
 }
 
-
 .workouts {
   list-style: none;
   height: 77vh;
@@ -215,13 +214,9 @@ h1 {
 }
 
 @media (max-width: 59.375em) {
-  body {
-    
-  }
-
   main {
     flex-direction: column;
-    
   }
+
   
 }
